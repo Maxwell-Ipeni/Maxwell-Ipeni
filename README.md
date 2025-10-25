@@ -8,9 +8,10 @@
 
 ## 🚀 About Me
  
-- 💻 I'm Passionate about building fullstack apps with **React**, **TypeScript**, **PostgreSQL** and **Supabase**
-- 🧠 Constantly learning & sharing what I learn
-- 💻 Learn, Relearn and Learn.
+- 💻 I’m a dedicated **full-stack developer** focused on building scalable, high-performance, and user-centric applications with **React**, **TypeScript**, **PostgreSQL**, and **Supabase**.
+- 🧠 I prioritize clean, intuitive UIs, optimized performance, and an exceptional developer experience—enhancing productivity and code quality through AI-powered tools like **Cursor** and **Roo** (formerly Rocket AI).
+- 💻 Committed to continuous learning, I actively explore emerging technologies and engineering best practices—and share insights to contribute to the broader developer community. 
+      My goal is to deliver **robust**, **high performance**, **maintainable solutions** and **clean UI** that delight both users and fellow developers.
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
 ---
