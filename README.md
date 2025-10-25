@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Maxwell Ipeni – aka **MaxDev** 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&pause=1000&color=89B4FA&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Dev+%7C+React+Enthusiast;User+Experience+Designer;Educator" alt="Typing SVG" />
 </div>
 
 ---
