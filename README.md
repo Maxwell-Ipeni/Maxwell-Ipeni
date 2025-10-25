@@ -10,7 +10,7 @@
  
 - 💻 I'm Passionate about building fullstack apps with **React**, **TypeScript**, **PostgreSQL** and **Supabase**
 - 🧠 Constantly learning & sharing what I learn
-- # Learn, Relearn and Learn for you to Grow.
+- 💻 Learn, Relearn and Grow
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
 ---
