@@ -63,5 +63,6 @@
 ## 🤝 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/max_ipeni )
+[![Phone](https://img.shields.io/badge/-phone-4405F?style=flat&logo=phone&logoColor=white)](https://phone.com/+254768610735 )
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxwel-ipeni)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/max_ipeni__)
