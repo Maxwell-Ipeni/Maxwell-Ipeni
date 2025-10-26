@@ -61,8 +61,7 @@
 ---
 
 ## 🤝 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/max_ipeni )
 [![Whatsapp](https://img.shields.io/badge/-WHATSAPP-4405F?style=flat&logo=WHATSAPP&logoColor=white)](https://wa.me/254768610735)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/max_ipeni )
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxwel-ipeni)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/max_ipeni__)
