@@ -45,7 +45,7 @@
 
 ## 📚 Check Out My Projects!
 
-> # Learn, Relearn and Learn.
+> # Always Learning, Always Building.
 
 🚨 **[👉 Click here to access my projects**
 
