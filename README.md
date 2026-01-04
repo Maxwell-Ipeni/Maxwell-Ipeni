@@ -1,14 +1,14 @@
-# 👋 Hey, I'm Maxwell Ipeni – aka **MaxDev** 👨‍💻
+# 👋 Hey, I'm Maxwell Ipeni (MG)👨‍💻
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&pause=1000&color=89B4FA&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Dev+%7C+React+Enthusiast;User+Experience+Designer" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
  
-- 💻 I’m a dedicated **full-stack developer** focused on building scalable, high-performance, and user-centric applications with **React**, **TypeScript**, **PostgreSQL**, and **Supabase**.
+- 💻 I’m a dedicated **Software Engineer** focused on building scalable, high-performance, and user-centric applications with **React**, **JavaScript** **TypeScript**, **PostgreSQL**, and **Supabase**.
 - 🧠 I prioritize clean, intuitive UIs, optimized performance, and an exceptional developer experience—enhancing productivity and code quality through AI-powered tools like **Cursor** and **Roo** (formerly Rocket AI).
  
 - 💻 Committed to continuous learning, I actively explore emerging technologies and engineering best practices—and share insights to contribute to the broader developer community. 
