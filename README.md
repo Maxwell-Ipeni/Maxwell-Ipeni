@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
  
-- 💻 I’m a dedicated **Software Engineer** focused on building scalable, high-performance, and user-centric applications with **React**, **JavaScript** **TypeScript**, **PostgreSQL**, and **Supabase**.
-- 🧠 I prioritize clean, intuitive UIs, optimized performance, and an exceptional developer experience—enhancing productivity and code quality through AI-powered tools like **Cursor** and **Roo** (formerly Rocket AI).
+- 💻 I’m a dedicated **Software Engineer** focused on building scalable, high-performance, and user-centric applications with **PhP(Laravel)**, **React**, **JavaScript** **TypeScript**, **PostgreSQL**, **Convex DB** and **MySQL**.
+- 🧠 I prioritize clean, intuitive UIs, optimized performance, and an exceptional developer experience—enhancing productivity and code quality through AI-powered tools like **Cursor**, **Antigravity** and **Roo** (formerly Rocket AI).
  
 - 💻 Committed to continuous learning, I actively explore emerging technologies and engineering best practices—and share insights to contribute to the broader developer community. 
   
