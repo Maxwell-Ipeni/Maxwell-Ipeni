@@ -13,7 +13,7 @@
  
 - 💻 Committed to continuous learning, I actively explore emerging technologies and engineering best practices—and share insights to contribute to the broader developer community. 
   
-- 🛠️ My goal is to deliver **robust**, **high performance**, **maintainable solutions** and **clean UI** that delight both users and fellow developers.
+- My goal is to deliver **robust**, **high performance**, **maintainable solutions** and **clean UI** that delight both users and fellow developers.
 
 ---
 
