@@ -8,8 +8,12 @@
 
 Creating solutions to everyday business problems
 Building scalable, maintainable web systems
+
 "APIs are contracts — break them and you break trust." Before I forget: validate early, cache smartly, and ship clean.
+
 💬 Ask me about Laravel (PHP), REST APIs, React, TypeScript, PostgreSQL, MYSQL, Docker, CRM Integrations, AI-Augmented Development
+
+
 📫 Reach me at maxwelipeni1@gmail.com
 ---
 
