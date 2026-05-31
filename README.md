@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Maxwell Ipeni (MG)👨‍💻
+# 👋 Hey, I'm Maxwell Ipeni 👨‍💻
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer" alt="Typing SVG" />
